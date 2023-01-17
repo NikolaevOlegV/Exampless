@@ -1,0 +1,15 @@
+A:\Олег.Учеба\Лекция ЗнакСпец\Examples\Exmples001\bin\Debug\net6.0\Exmples001.exe
+A:\Олег.Учеба\Лекция ЗнакСпец\Examples\Exmples001\bin\Debug\net6.0\Exmples001.deps.json
+A:\Олег.Учеба\Лекция ЗнакСпец\Examples\Exmples001\bin\Debug\net6.0\Exmples001.runtimeconfig.json
+A:\Олег.Учеба\Лекция ЗнакСпец\Examples\Exmples001\bin\Debug\net6.0\Exmples001.dll
+A:\Олег.Учеба\Лекция ЗнакСпец\Examples\Exmples001\bin\Debug\net6.0\Exmples001.pdb
+A:\Олег.Учеба\Лекция ЗнакСпец\Examples\Exmples001\obj\Debug\net6.0\Exmples001.csproj.AssemblyReference.cache
+A:\Олег.Учеба\Лекция ЗнакСпец\Examples\Exmples001\obj\Debug\net6.0\Exmples001.GeneratedMSBuildEditorConfig.editorconfig
+A:\Олег.Учеба\Лекция ЗнакСпец\Examples\Exmples001\obj\Debug\net6.0\Exmples001.AssemblyInfoInputs.cache
+A:\Олег.Учеба\Лекция ЗнакСпец\Examples\Exmples001\obj\Debug\net6.0\Exmples001.AssemblyInfo.cs
+A:\Олег.Учеба\Лекция ЗнакСпец\Examples\Exmples001\obj\Debug\net6.0\Exmples001.csproj.CoreCompileInputs.cache
+A:\Олег.Учеба\Лекция ЗнакСпец\Examples\Exmples001\obj\Debug\net6.0\Exmples001.dll
+A:\Олег.Учеба\Лекция ЗнакСпец\Examples\Exmples001\obj\Debug\net6.0\refint\Exmples001.dll
+A:\Олег.Учеба\Лекция ЗнакСпец\Examples\Exmples001\obj\Debug\net6.0\Exmples001.pdb
+A:\Олег.Учеба\Лекция ЗнакСпец\Examples\Exmples001\obj\Debug\net6.0\Exmples001.genruntimeconfig.cache
+A:\Олег.Учеба\Лекция ЗнакСпец\Examples\Exmples001\obj\Debug\net6.0\ref\Exmples001.dll
